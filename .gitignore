@@ -89,4 +89,4 @@ hs_err_pid*
 replay_pid*
 
 # ignore firebase.js
-firebase.js
+src/firebase/firebase.js
