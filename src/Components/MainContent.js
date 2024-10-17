@@ -35,7 +35,6 @@ const MainContainer = () => {
               style={{ color: "#a3aab9" }}
             />
           </button>
-          <div className="separator-line"></div>
         </div>
         <div className="content">
           <div className="games-grid">
