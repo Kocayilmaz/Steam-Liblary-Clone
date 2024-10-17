@@ -36,6 +36,7 @@ const MainContainer = () => {
             />
           </button>
         </div>
+
         <div className="content">
           <div className="games-grid">
             {games.map((game) => (
